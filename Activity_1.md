@@ -1,8 +1,8 @@
 # Activity 1
 
-There were used findings about emerging technologies and practice from the academic articles and research paper regarding emerging technologies in agriculture sector focused on Australian best practices.
+There were used findings about emerging technologies and practices from the academic articles and research papers regarding emerging technologies in the agriculture sector focused on Australian best practices.
 
-The development and convergence of technologies in the world and in agriculture sector particular is occurring at a faster rate to improve competitiveness and quality of agricultural products. There are three emerging technologies that could be potentially used by RegenTech.
+The development and convergence of technologies in the world and in the agriculture sector, in particular, is occurring at a faster rate to improve the competitiveness and quality of agricultural products. There are three emerging technologies that could be potentially used by RegenTech.
 
 ## Drones
 Drones can reduce working hours for farmers and may improve the overall health of their crops, help to save the producer time, resources and allow farmers to use soil enhancers and fertilisers more effectively (DAF of QLD, 2022).
