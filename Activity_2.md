@@ -48,7 +48,7 @@ IoT can be merged with blockchain to improve the performance of the application 
 2. The technical challenge to connect sensors in IoT with the blockchain (ACIL Allen consulting, 2018).
 
 
-##Cost of acquisition
+## Cost of acquisition
 
 **Drones**
 1.  Cost of the drone is roughly $3,000
@@ -78,7 +78,7 @@ Acquisition of IoT is supposed to lower the cost of fixing waterlogging issues.
 
 Acquisition of Blockchain is supposed to lower the cost of travelling time from farm to farm and avoid errors of data entry.
 
-##Cost of removal
+## Cost of removal
 
 Drones have different features and functions. If there is any needs to replace the existing drones, Regen Tech will be forced to sell the old versions that might have a price significantly lower compared to today’s price. Skills for using new drones have to be updated with the requirements of the new product.
 
@@ -88,7 +88,7 @@ Zoom is easy to replace once there are any new tools emerge. This means that Zoo
 
 Blockchain has good potential in terms of food safety and food fraud. Nevertheless, it could be replaced if the producers do not see direct benefits. Before replacing, the company has to find a new way of data collection and storing that will may cause extra costs.
 
-##References:
+## References:
 Department of Agriculture, Water and the Environment (2022),
  “Digital Foundations for agriculture stategy”  Retrieved: https://www.agriculture.gov.au/sites/default/files/documents/digital-foundations-agriculture-strategy.pdf
 
